@@ -1,0 +1,14 @@
+C:\Users\manzura\OneDrive\Рабочий стол\доставка\bin\Debug\net8.0\доставка.exe
+C:\Users\manzura\OneDrive\Рабочий стол\доставка\bin\Debug\net8.0\доставка.deps.json
+C:\Users\manzura\OneDrive\Рабочий стол\доставка\bin\Debug\net8.0\доставка.runtimeconfig.json
+C:\Users\manzura\OneDrive\Рабочий стол\доставка\bin\Debug\net8.0\доставка.dll
+C:\Users\manzura\OneDrive\Рабочий стол\доставка\bin\Debug\net8.0\доставка.pdb
+C:\Users\manzura\OneDrive\Рабочий стол\доставка\obj\Debug\net8.0\доставка.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manzura\OneDrive\Рабочий стол\доставка\obj\Debug\net8.0\доставка.AssemblyInfoInputs.cache
+C:\Users\manzura\OneDrive\Рабочий стол\доставка\obj\Debug\net8.0\доставка.AssemblyInfo.cs
+C:\Users\manzura\OneDrive\Рабочий стол\доставка\obj\Debug\net8.0\доставка.csproj.CoreCompileInputs.cache
+C:\Users\manzura\OneDrive\Рабочий стол\доставка\obj\Debug\net8.0\доставка.dll
+C:\Users\manzura\OneDrive\Рабочий стол\доставка\obj\Debug\net8.0\refint\доставка.dll
+C:\Users\manzura\OneDrive\Рабочий стол\доставка\obj\Debug\net8.0\доставка.pdb
+C:\Users\manzura\OneDrive\Рабочий стол\доставка\obj\Debug\net8.0\доставка.genruntimeconfig.cache
+C:\Users\manzura\OneDrive\Рабочий стол\доставка\obj\Debug\net8.0\ref\доставка.dll
